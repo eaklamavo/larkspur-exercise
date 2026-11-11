@@ -1,4 +1,4 @@
-# Team: Room Room 1
+# Team: Room 1
 
 Your team name is your breakout room number. The repo owner types it on the
 first line, exactly as in the guide: replace `<number>` with your room number.
@@ -11,7 +11,7 @@ teammate, starting with `- `. Commit the file once. Nobody else changes it.
 The review reads these names. Nothing else comes off the list. Your team still
 decides in the moment who does what.
 
-- Henry 
+- Henry Phillips
 - James
 - Paul
 - Shaaf
